@@ -1,0 +1,14 @@
+.loginBtn {
+  display: flex;
+  align-items: center;
+  align-self: flex-start;
+  background-color: #9314dd;
+  cursor: pointer;
+  padding: 10px 22px;
+  border-radius: 4px;
+  color: #fff;
+}
+.loginBtn:hover {
+  background-color: #be6dec;
+  transition: 0.2s all ease-in;
+}
